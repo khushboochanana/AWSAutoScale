@@ -1,0 +1,4 @@
+ ssh -i DemoAwsKey.pem ubuntu@ec2-54-179-158-133.ap-southeast-1.compute.amazonaws.com
+
+ssh -i IAaAwsKey.pem ubuntu@ec2-52-88-169-109.us-west-2.compute.amazonaws.com
+

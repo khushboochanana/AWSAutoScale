@@ -1,0 +1,14 @@
+node_modules
+.tmp
+tmp/*
+.sass-cache
+dist
+build
+.gradle
+.idea
+.env
+*.log
+dump.rdb
+data
+.DS_Store
+runKoka.sh
